@@ -10,4 +10,6 @@ a patient is to carry their information to another doctor. This use case would b
 Local clinics, eventually hospitals.
 
 
-### Cost
+### Resources
+
+https://blockgeeks.com/guides/blockchain-in-healthcare/
